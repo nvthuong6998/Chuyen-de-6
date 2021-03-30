@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990902844034",
+    "project_id": "chuyende6-60876",
+    "storage_bucket": "chuyende6-60876.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990902844034:android:7e3224a6287ffec466129b",
+        "android_client_info": {
+          "package_name": "com.example.chuyen_de_6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990902844034-7ns8en2dmvk0g6nvvsntv2ghom0bhktc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_SmycCWrFuRCBeo3gjhqJwM7xtHXY1Bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990902844034-7ns8en2dmvk0g6nvvsntv2ghom0bhktc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
